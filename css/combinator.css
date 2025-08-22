@@ -1,0 +1,21 @@
+p{
+    color:red;
+}
+div p{
+    color:hotpink;
+}
+.maindiv>h1{
+    color:blueviolet;
+}
+.maindiv+h1{
+   color:aqua; 
+} 
+.maindiv~h1{
+    color:bisque;
+}
+
+
+p[class]{
+    color:rgb(105, 197, 134);
+}
+
