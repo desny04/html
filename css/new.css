@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+CA:wght@100..400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Macondo&family=Playwrite+CA:wght@100..400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Macondo&family=Playwrite+CA:wght@100..400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Macondo&family=Playwrite+CA:wght@100..400&family=Rubik+Distressed&display=swap');
+
+.first{
+    font-family: "Playwrite CA", cursive;
+}
+
+.firstpara{
+    font-family: "Bebas Neue", sans-serif;
+}
+
+#second{
+     font-family: "Macondo", cursive;
+}
+
+.secondpara{
+    font-family: "Rubik Distressed", system-ui;
+}
+
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    font-weight: 400;
+    font-size: 30px;
+    font-variant: small-caps;
+}
+
+h2{
+    font:oblique small-caps 400 30px Arial, Helvetica, sans-serif
+}
